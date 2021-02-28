@@ -1,0 +1,12 @@
+seaborn
+matplotlib
+torch
+pandas
+transformers
+contractions
+emoji
+tokenizer
+sklearn
+tqdm
+nltk
+empath

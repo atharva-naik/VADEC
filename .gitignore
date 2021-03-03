@@ -131,7 +131,7 @@ dmypy.json
 requirements.txt
 plots/plot_points_score.txt
 plots/Annoyed_in_multi_counts.png
-plots/Annoyed_in_score_counts.png
+plots/Annoyed_in_score.png
 plots/Optimistic_in_multi_counts.png
-plots/Optimistic_in_score_counts.png
+plots/Optimistic_in_score.png
 
